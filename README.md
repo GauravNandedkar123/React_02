@@ -52,7 +52,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/c
 ### Analyzing the Bundle Size
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+ 
+ ![Screenshot (30)](https://github.com/GauravNandedkar123/React_02/assets/130847216/b71f2b68-713d-4c06-8d73-bd02fe537f0d)
 
+ 
+ 
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
